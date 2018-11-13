@@ -1,4 +1,4 @@
-# key-difference [![Build Status](https://travis-ci.org/bendrucker/key-difference.svg?branch=master)](https://travis-ci.org/bendrucker/key-difference)
+# key-difference [![Build Status](https://travis-ci.org/bendrucker/key-difference.svg?branch=master)](https://travis-ci.org/bendrucker/key-difference) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/key-difference.svg)](https://greenkeeper.io/)
 
 > Create an array of the keys present in the first input object but not additional ones
 
